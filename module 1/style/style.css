@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Playfair Display', serif;
+    
+}
+.page-header ul {
+    text-align: center;
+}
+.page-header ul li {
+    display: inline-block;
+    font-size: 32px;
+    padding: 15px;
+    text-align: center;
+    cursor: pointer;
+}
+.main {
+    width: 960px;
+    text-align: center;
+    margin: 0 auto;
+    padding: 5px;
+}
+.card {
+    width: 470px;
+    display: inline-block;
+    border: 1px solid black;
+    text-align: left;
+    margin-top: 30px;
+    
+}
+.card img {
+    width: 420px;
+    height: 280px;
+}
+.card p h2 {
+    margin-top: 20px;
+}
+
